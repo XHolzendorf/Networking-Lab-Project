@@ -1,8 +1,6 @@
 # Networking-Lab-Project
 
-Love this idea—Packet Tracer is *perfect* for building real, job-ready network skills at home. I’ll walk you through a **clean, progressive home lab** that starts simple and grows into something a **network engineer** would actually brag about in interviews.
-
-No fluff. Just practical skills 👇
+Love this idea—Packet Tracer is *perfect* for building real, job-ready network skills at home. I’ll walk you through a **clean, progressive home lab** that starts simple and grows into something a **network engineer** would actually brag about.
 
 ---
 
@@ -18,8 +16,6 @@ Build a **small enterprise-style network** that includes:
 * NAT
 * ACLs
 * Basic troubleshooting
-
-By the end, you’ll understand **how data actually moves**.
 
 ---
 
@@ -85,7 +81,7 @@ ping 192.168.1.1
 ping 192.168.1.20
 ```
 
-If this works—congrats, you just built your first LAN 🎉
+If this works—congrats, you just built your first LAN 
 
 ---
 
@@ -165,7 +161,7 @@ GW: 192.168.20.1
 ping between VLANs
 ```
 
-Boom—**Layer 3 routing achieved** 💪
+**Layer 3 routing achieved** 
 
 ---
 
@@ -202,7 +198,7 @@ interface g0/0.10
  ip access-group 100 in
 ```
 
-Now VLAN 10 can’t access IT 👀
+Now VLAN 10 can’t access IT 
 
 ---
 
