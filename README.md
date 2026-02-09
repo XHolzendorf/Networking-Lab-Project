@@ -248,9 +248,3 @@ show interfaces trunk
 show ip dhcp binding
 show access-lists
 ```
-
-
-
-
-
-Just tell me where you want to take it 🔥
