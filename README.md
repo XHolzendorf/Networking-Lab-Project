@@ -1,4 +1,4 @@
-# Networking-Lab-Project
+# Networking-Lab-Project Pt.1
 
 Love this idea—Packet Tracer is *perfect* for building real, job-ready network skills at home. I’ll walk you through a **clean, progressive home lab** that starts simple and grows into something a **network engineer** would actually brag about.
 
